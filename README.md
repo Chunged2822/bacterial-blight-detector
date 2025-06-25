@@ -22,9 +22,13 @@ After downloading, create a folder named `model/` and place the file inside:
 
 bacterial-blight-detector/
 ├── model/
+
 │ └── pomegranate_disease_model_optimized.tflite
+
 ├── app.py
+
 ├── requirements.txt
+
 └── README.md
 
 pip install -r requirements.txt
