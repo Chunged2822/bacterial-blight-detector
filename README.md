@@ -21,6 +21,7 @@ The trained TensorFlow Lite model is not included in the repository due to GitHu
 After downloading, create a folder named `model/` and place the file inside:
 
 bacterial-blight-detector/
+
 ├── model/
 
 │ └── pomegranate_disease_model_optimized.tflite
